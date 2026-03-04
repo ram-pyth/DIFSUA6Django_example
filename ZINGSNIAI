@@ -1,0 +1,26 @@
+#############################################################################################
+# Django būtinai reikia atskiro naujo PyCharm projekto, kurso projektas netinkamas.
+#############################################################################################
+
+#############################################################################################
+# 1. Paruošiamieji žingsniai:
+#
+# Instaliuojame Django web framework kodo bazę terminale įvedę:
+# pip install Django
+#
+# Paruošiam karkasą web appui, terminale įvedę(taškas irgi svarbus):
+# django-admin startproject myproject .
+#
+# Po paskutinio žingsnio sukuriami nauji projekto failai, tai yra
+# aplikacijos karkasas. Dabar galim patikrinti ar karkasas paruoštas,
+# terminale įvedam:
+# python manage.py runserver
+#
+# Terminale paspaudžiam serverio linką(paprastai http://127.0.0.1:8000/).
+# Jeigu matote Django startinį puslapį – viskas veikia
+# Serverį dabar išjungsim su Ctrl + C
+#############################################################################################
+
+#############################################################################################
+#
+#############################################################################################
