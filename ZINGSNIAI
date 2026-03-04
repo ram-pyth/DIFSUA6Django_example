@@ -22,5 +22,15 @@
 #############################################################################################
 
 #############################################################################################
+# 2. db ir admin panel aktyvavimas ir admin sukūrimas
+# sukuriam duomenų bazę ir užpildom ją pradiniais duomenimis(įvyksta automatiškai):
+# python manage.py makemigrations
+# python manage.py migrate
 #
+# sukuriam projekto supervartotoją(superadminą), atsidarius
+# dialogui suvedam admino duomenis:
+# python manage.py createsuperuser
+#
+# paleidžiam serverį ir surinkę adrese maršrutą į /admin pasitikrinam
+# ar galim prisijungti prie admin panel
 #############################################################################################
