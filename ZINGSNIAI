@@ -55,3 +55,15 @@
 # python manage.py makemigrations
 # python manage.py migrate
 ##############################################################################################
+
+#############################################################################################
+# 6. prijungiam sumodeliuotą ir sukurtą(per migracijas) lentelę prie admin panel
+# jungiam rašydami kodą projektai_app/admin.py faile
+# parašius kodą lentelėje Projektai gal;ima daryti CRUD operacijas per admin panel
+##############################################################################################
+
+#############################################################################################
+# 7. prijungiam homepage šablonus ir css
+# folderiuose projektai_app/templates, projektai_app/static/css
+# dabar homepage linke matome paskaitoje darytus Flask appo vaizdus
+##############################################################################################
