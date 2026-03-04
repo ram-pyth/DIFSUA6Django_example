@@ -47,3 +47,11 @@
 # projektai_app/urls.py failas buvo sukurtas rankiniu būdu
 # pakeitimai daromi rankiniu būdu rašant kodą, githube sekti .py failus kurie pasikeitė
 ##############################################################################################
+
+#############################################################################################
+# 5. sumodeliuojam savo appui db lentelę
+# pirmiausiai rašom kodą projektai_app/models.py faile modeliuodami lentelę/lenteles
+# !!!! po to suvykdome migracijas:
+# python manage.py makemigrations
+# python manage.py migrate
+##############################################################################################
