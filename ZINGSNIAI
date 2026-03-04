@@ -41,3 +41,9 @@
 # python manage.py startapp projektai_app
 # atsiranda naujas folderis ir failai(sekti githube commito failus)
 #############################################################################################
+
+#############################################################################################
+# 4. prijungiam app prie projektai, sukonfigūruojam homepage iš mūsų appo
+# projektai_app/urls.py failas buvo sukurtas rankiniu būdu
+# pakeitimai daromi rankiniu būdu rašant kodą, githube sekti .py failus kurie pasikeitė
+##############################################################################################
