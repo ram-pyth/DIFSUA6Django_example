@@ -72,4 +72,12 @@
 # 8. pakeičiam homepage rodinį į visų eilučių iš lentelės rodinį
 # projektai_app/views.py
 # projektai_app/urls.py
+# projektai/templates
+##############################################################################################
+
+#############################################################################################
+# 9. prijungiam ir sulinkinam vienos eilutės(vieno projekto) rodinį
+# projektai_app/views.py
+# projektai_app/urls.py
+# projektai/templates
 ##############################################################################################
