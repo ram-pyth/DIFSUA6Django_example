@@ -34,3 +34,10 @@
 # paleidžiam serverį ir surinkę adrese maršrutą į /admin pasitikrinam
 # ar galim prisijungti prie admin panel
 #############################################################################################
+
+#############################################################################################
+# 3. app sukūrimas, django projektas talpina daug app(kaip komponentų) ne vieną
+# sukurkime app pavadinimu projektai_app terminale įvedę:
+# python manage.py startapp projektai_app
+# atsiranda naujas folderis ir failai(sekti githube commito failus)
+#############################################################################################
