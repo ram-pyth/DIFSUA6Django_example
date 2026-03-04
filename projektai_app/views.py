@@ -1,6 +1,8 @@
-from django.shortcuts import render
-from django.http import HttpResponse
+from django.views import generic
+from .models import Projektas
 
 # Create your views here.
-def home(request):
-    return render(request, "index.html")
+class ProjektasView(generic.ListView):
+    model = Projektas
+    context_object_name = 'all_rows'
+    template_name = 'index.html'

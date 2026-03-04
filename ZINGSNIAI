@@ -67,3 +67,9 @@
 # folderiuose projektai_app/templates, projektai_app/static/css
 # dabar homepage linke matome paskaitoje darytus Flask appo vaizdus
 ##############################################################################################
+
+#############################################################################################
+# 8. pakeičiam homepage rodinį į visų eilučių iš lentelės rodinį
+# projektai_app/views.py
+# projektai_app/urls.py
+##############################################################################################
